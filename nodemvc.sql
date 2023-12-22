@@ -38,10 +38,10 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`) VALUES
-(1, 'Miroslav', 'miroslav@gmail.com'),
-(2, 'Plamen', 'plamen@gmail.com'),
-(3, 'Lidiya', 'Lidiya@gmail.com'),
-(14, 'Miroslav PENKOV', 'miroslavpenkov12@gmail.com');
+(1, 'Evi', 'avis@gmail.com'),
+(2, 'Test', 'test@gmail.com'),
+(3, 'QWerty', 'qwuerty@gmail.com'),
+(14, 'Azerty', 'test12@gmail.com');
 
 --
 -- Index pour les tables déchargées
